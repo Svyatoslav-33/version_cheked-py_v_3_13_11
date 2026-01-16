@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+.env
+.env.local
+.env.*.local
+.env.production
+.env.test
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend (Vue.js)
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+.vscode/
+.idea/
+
+# Testing
+coverage/
+.coverage
+
+# PyCharm
+.idea/
+*.iws
+
+# VSCode
+.vscode/
